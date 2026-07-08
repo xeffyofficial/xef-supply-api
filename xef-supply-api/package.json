@@ -1,6 +1,0 @@
-{
-  "name": "xax-supply-api",
-  "version": "1.0.0",
-  "description": "XAX token circulating/total supply API for CoinGecko/CMC (Vercel)",
-  "private": true
-}
