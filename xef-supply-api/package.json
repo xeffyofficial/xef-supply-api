@@ -1,0 +1,6 @@
+{
+  "name": "xef-supply-api",
+  "version": "1.0.0",
+  "description": "XEF token total/circulating supply API for CoinGecko/CMC (Vercel)",
+  "private": true
+}
